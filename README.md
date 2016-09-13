@@ -5,5 +5,5 @@
 Python:
 ![python](http://imgur.com/B48TT4Z.png)
 
-Javascript:
+Javascript/Typescript:
 ![javascript](http://imgur.com/4M6XTL8.png)
