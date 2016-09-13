@@ -2,7 +2,7 @@
 
 ### Installation.
 ```
-apm install awesome-material-theme
+apm install awesome-material-syntax
 ```
 
 ### How it looks:
