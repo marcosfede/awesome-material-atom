@@ -1,7 +1,9 @@
-A dark theme with material colors based on the Idea Material Theme
+# A dark theme with material colors based on the Idea Material Theme
 
-How it looks:
+### How it looks:
 
+Python:
 ![python](http://imgur.com/B48TT4Z.png)
 
+Javascript:
 ![javascript](http://imgur.com/4M6XTL8.png)
