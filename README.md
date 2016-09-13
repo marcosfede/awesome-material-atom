@@ -1,5 +1,10 @@
 ## A dark theme with material colors based on the Idea Material Theme
 
+### Instalation.
+```
+apm install awesome-material-theme
+```
+
 ### How it looks:
 
 Python:
