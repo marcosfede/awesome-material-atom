@@ -1,6 +1,7 @@
 ## A dark theme with material colors based on the [Idea](https://github.com/ChrisRM/material-theme-jetbrains) Material Theme
 
 Also [ported to Jetbrains IDEs](https://github.com/marcosfede/awesome-material-jetbrains) 
+And  [VSCode](https://github.com/marcosfede/awesome-material-vscode) 
 ### Installation.
 ```
 apm install awesome-material-syntax
